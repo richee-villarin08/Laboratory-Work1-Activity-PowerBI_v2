@@ -13,9 +13,12 @@ Week1_Basic_Sales_Data.csv
 Step 3: Verify Data in Data View 
 1. Click the Data View icon (table icon on the left) 
 2. Check: 
-○ Are all columns visible?  Yes, all columns are visible. 
-○ Is “Date” formatted as Date? Yes, but it was set long date format
-○ Is “Sales” formatted as Decimal Number? Yes Sales was formatted as decimal.
+○ Are all columns visible?
+Yes, all columns are visible. 
+○ Is “Date” formatted as Date?
+>Yes, but it was set long date format
+○ Is “Sales” formatted as Decimal Number?
+> Yes Sales was formatted as decimal.
 If Data Type is Incorrect: 
 1. Click the column 
 2. Go to Column Tools 
@@ -41,8 +44,10 @@ Step 1: Quick Visualization
 1. Drag Sales into canvas 
 2. Power BI automatically creates a visual 
 Question: 
-● What type of chart was created? It generated a column chart with one bar.
-● What does it show?  It shows the total (Sum) of Sales for the entire dataset. Since no category field was added, Power BI aggregated all sales values together and displayed them as a single bar representing the overall sales amount.
+● What type of chart was created?
+>It generated a column chart with one bar.
+● What does it show?
+>It shows the total (Sum) of Sales for the entire dataset. Since no category field was added, Power BI aggregated all sales values together and displayed them as a single bar representing the overall sales amount.
 Step 2: Create a Sales by Region Chart 
 1. Click blank canvas 
 2. Select Clustered Column Chart
@@ -50,44 +55,58 @@ Step 2: Create a Sales by Region Chart
 ○ Region → X-axis 
 ○ Sales → Values 
 Question: 
-● Which region has highest sales?  West Region has the highest sales,
+● Which region has highest sales?
+> West Region has the highest sales,
 Step 3: Sales by Category 
 1. Insert a Pie Chart 
 2. Drag: 
 ○ Category → Legend 
 ○ Sales → Values 
 Question: 
-● Which category dominates? The electronics category dominates the whole pie chart. 
-● Is the distribution balanced? No, the distribution is not balanced.
+● Which category dominates?
+>The electronics category dominates the whole pie chart. 
+● Is the distribution balanced?
+> No, the distribution is not balanced.
 Step 4: Sales Over Time 
 1. Insert Line Chart 
 2. Drag: 
 ○ Date → X-axis 
 ○ Sales → Values 
 Question: 
-● Is there growth? No,because the sales are decreasing. 
-● Any noticeable trend? Yes, there's a clear downward trend.
+● Is there growth?
+>No,because the sales are decreasing. 
+● Any noticeable trend?
+>> Yes, there's a clear downward trend.
 PART 4: Basic Data Insight Interpretation Students must now interpret visuals. 
 Question: 
-● Which region contributes most revenue?  The West Region contributes the most revenue.
-● Which product category performs best? The electronics category perform best.
-● Are sales consistent across dates? No, sales are not consistent. The line chart shows that sales decreased from 2024 to 2025, indicating a downward trend.
-● What business recommendation can you suggest? A good business recommendation is to focus on improving sales in lower-performing regions like North and investigate the decline in 2025 while continuing to invest in the high-performing Electronics category.
+● Which region contributes most revenue?
+>> The West Region contributes the most revenue.
+● Which product category performs best?
+>>  The electronics category perform best.
+● Are sales consistent across dates?
+>>  No, sales are not consistent. The line chart shows that sales decreased from 2024 to 2025, indicating a downward trend.
+● What business recommendation can you suggest?
+>>  A good business recommendation is to focus on improving sales in lower-performing regions like North and investigate the decline in 2025 while continuing to invest in the high-performing Electronics category.
 
 LABORATORY QUESTIONS 
 Part A – Technical Questions 
-1. What are the five columns in the dataset? The five columns in the dataset are Sales, Region, Category, Year, and Product.
-2. What data type is assigned to the “Sales” column? >The Sales column is a numeric (decimal number/currency) data type. 
- 3. Which Power BI view allows you to see raw data?
+1. What are the five columns in the dataset?
+   > The five columns in the dataset are Sales, Region, Category, Year, and Product.
+2. What data type is assigned to the “Sales” column?
+   >The Sales column is a numeric (decimal number/currency) data type. 
+3. Which Power BI view allows you to see raw data?
 >The Data View allows me to see raw data.
 4. What chart type is best for showing trends over time? 
 >A Line Chart is best for showing trends over time.
 5. What aggregation is automatically applied to Sales?
 >Power BI automatically applies Sum aggregation to the Sales field.
 Part B – Analytical Questions 
-6. Which region has the highest total sales? The West Region has the highest total sales.
-7. Which category has the lowest performance? The Office Supplies category has the lowest performance.
-8. Are sales increasing, decreasing, or stable? Sales are decreasing (from 2024 to 2025).
+6. Which region has the highest total sales?
+>The West Region has the highest total sales.
+7. Which category has the lowest performance?
+>The Office Supplies category has the lowest performance.
+8. Are sales increasing, decreasing, or stable?
+> Sales are decreasing (from 2024 to 2025).
 9. If you were a manager, which region would you prioritize?
 > I would prioritize the North Region, since it generates the lowest revenue and has room for improvement.
 10. Provide one actionable recommendation based on the data. 
