@@ -1,3 +1,7 @@
+[#Laboratory Work 1 - Power BI](https://docs.google.com/presentation/d/1_o9ovgB0cMqz-F10N_7nmiGWQdD7rpTlodI1OdVqRj4/edit?usp=sharing)
+
+
+
 PART 1: Launching Power BI & Loading Data 
 Step 1: Open Power BI Desktop 
 ● Click Start 
