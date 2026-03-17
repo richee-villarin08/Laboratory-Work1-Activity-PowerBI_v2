@@ -1,4 +1,5 @@
 [#Laboratory Work 1 - Power BI](https://docs.google.com/presentation/d/1_o9ovgB0cMqz-F10N_7nmiGWQdD7rpTlodI1OdVqRj4/edit?usp=sharing)
+[#Laboratory Work 1 - Power BI](https://drive.google.com/file/d/12u4fY_HXra-ytOgn7inI3y1v-Y9UYU8g/view?usp=drive_link)
 
 
 
@@ -104,6 +105,8 @@ Part A – Technical Questions
 >A Line Chart is best for showing trends over time.
 5. What aggregation is automatically applied to Sales?
 >Power BI automatically applies Sum aggregation to the Sales field.
+
+
 Part B – Analytical Questions 
 6. Which region has the highest total sales?
 >The West Region has the highest total sales.
@@ -125,7 +128,7 @@ Task 1: Add a Card Visualization
 ○ Increase font size 
 ○ Change title to “Total Sales” 
 Question: 
-● What is the total sales amount? 220K is the total sales.
+● What is the total sales amount? >220K is the total sales.
 Task 2: Add Slicer 
 1. Insert Slicer 
 2. Drag Region 
@@ -139,8 +142,12 @@ Task 3: Sort Sales
 2. Click three dots (…) 
 3. Sort by Sales Descending 
 Question: 
-● Does sorting improve readability? Yes, sorting improves readability because it arranges the regions from highest to lowest sales, making it easier to quickly identify the top- and lowest-performing regions.
-● Why? Sorting helps because it allows users to compare values more clearly and detect differences at a glance without confusion.
+● Does sorting improve readability?
+ >Yes, sorting improves readability because it arranges the regions from highest to lowest sales, making it easier to quickly identify the top- and lowest-performing regions.
+● Why?
+> Sorting helps because it allows users to compare values more clearly and detect differences at a glance without confusion.
 Task 4: Identify Outliers 
-● Which region is significantly higher or lower? The North region is significantly lower compared to the other regions.
-● What might explain that difference? This difference might be explained by lower customer demand, fewer sales opportunities, weaker marketing efforts, or a smaller market size in that region.
+● Which region is significantly higher or lower?
+>The North region is significantly lower compared to the other regions.
+● What might explain that difference? >
+> This difference might be explained by lower customer demand, fewer sales opportunities, weaker marketing efforts, or a smaller market size in that region.
