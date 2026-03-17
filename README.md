@@ -1,5 +1,7 @@
 [#Laboratory Work 1 - Power BI](https://docs.google.com/presentation/d/1_o9ovgB0cMqz-F10N_7nmiGWQdD7rpTlodI1OdVqRj4/edit?usp=sharing)
-[#Laboratory Work 1 - Power BI](https://drive.google.com/file/d/12u4fY_HXra-ytOgn7inI3y1v-Y9UYU8g/view?usp=drive_link)
+
+
+[#Laboratory Work 1 - Power BI.pdF](https://drive.google.com/file/d/12u4fY_HXra-ytOgn7inI3y1v-Y9UYU8g/view?usp=drive_link)
 
 
 
